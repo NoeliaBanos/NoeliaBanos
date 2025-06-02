@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/email-noelia.graphic.bj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noelia.graphic.bj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-Ver-blueviolet?style=flat-square&logo=github)](https://tu-portfolio.com](https://www.behance.net/nissoliadesing))
+[![Behance](https://img.shields.io/badge/Portfolio-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/nissoliadesing)
 
 ---
 
