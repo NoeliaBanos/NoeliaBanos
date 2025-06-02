@@ -19,17 +19,17 @@
 ---
 
 ## 💼 Experiencia
-| Fechas | Rol | Empresa / Tipo | Ubicación | Principales tareas |
-|--------|-----|----------------|-----------|--------------------|
-| **Abr 2025 – Actualidad** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | Utrera, Sevilla | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
-| **Abr 2023** | Ayudante de Tienda | **FairOnly** · Obra/servicio | Jerez de la Frontera | • Atención al cliente y ventas.<br>• Organización de stock y caja.<br>• Adaptabilidad a picos de demanda. |
-| **Nov 2022 – Ene 2023** | Empaquetadora | **Imperium Modas** · Parcial | Jerez de la Frontera | • Preparación y empaquetado de pedidos.<br>• Coordinación con logística.<br>• Resolución rápida de incidencias. |
-| **May 2022** | Ayudante de Tienda | **FairOnly** · Obra/servicio | Jerez de la Frontera | • Gestión operativa diaria.<br>• Servicio de atención al cliente.<br>• Trabajo en equipo. |
-| **Ene – Abr 2022** | Diseñadora Gráfica | **LeBranders** · Temporal | El Puerto de Santa María | • Identidad visual y logotipos.<br>• Estrategia y contenidos festivos.<br>• Maquetación web con **Elementor**. |
-| **Nov 2021 – Ene 2022** | Teleoperadora | **Majorel** · Obra/servicio | Jerez de la Frontera | • Soporte y fidelización de clientes.<br>• KPIs de calidad > 95 %. |
-| **May – Nov 2021** | Diseñadora Gráfica Freelance | **Autónoma** | Jerez de la Frontera | • Branding, diseño web (**WordPress**) y RRSS.<br>• Gestión integral de proyectos y clientes. |
-| **Dic 2020 – Abr 2021** | Diseñadora Gráfica (Prácticas) | **Ignacio Dopico** | Jerez de la Frontera | • Artes finales para impresión y digital.<br>• Coordinación de campañas publicitarias. |
-| **May – Jun 2020 / May – Jun 2018** | Creadora de Contenido (Prácticas) | **CRIAFAMA®** | Jerez de la Frontera | • Desarrollo de recursos gráficos para blog y RRSS.<br>• Mantenimiento visual continuo. |
+| Fechas | Rol | Empresa / Tipo | Principales tareas |
+|--------|-----|----------------|--------------------|
+| **Abril 2025 – Actualidad** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
+| **Abril 2023** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Atención al cliente y ventas.<br>• Organización de stock y caja.<br>• Adaptabilidad a picos de demanda. |
+| **Noviembre 2022 – Enero 2023** | Empaquetadora | **Imperium Modas** · Parcial | • Preparación y empaquetado de pedidos.<br>• Coordinación con logística.<br>• Resolución rápida de incidencias. |
+| **Mayo 2022** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Gestión operativa diaria.<br>• Servicio de atención al cliente.<br>• Trabajo en equipo. |
+| **Enero – Abril 2022** | Diseñadora Gráfica | **LeBranders** · Temporal | • Identidad visual y logotipos.<br>• Estrategia y contenidos festivos.<br>• Maquetación web con **Elementor**. |
+| **Noviembre 2021 – Enero 2022** | Teleoperadora | **Majorel** · Obra/servicio | • Soporte y fidelización de clientes.<br>• KPIs de calidad > 95 %. |
+| **Mayo – Noviembre 2021** | Diseñadora Gráfica Freelance | **Autónoma** | • Branding, diseño web (**WordPress**) y RRSS.<br>• Gestión integral de proyectos y clientes. |
+| **Diciembre 2020 – Abril 2021** | Diseñadora Gráfica (Prácticas) | **Ignacio Dopico** | • Artes finales para impresión y digital.<br>• Coordinación de campañas publicitarias. |
+| **Mayo – Junio 2020 / Mayo – Junio 2018** | Creadora de Contenido (Prácticas) | **CRIAFAMA®** | • Desarrollo de recursos gráficos para blog y RRSS.<br>• Mantenimiento visual continuo. |
 
 ---
 
@@ -60,9 +60,11 @@
 
 ## 🛠️ Tecnologías
 
-| Lenguajes                                | Frameworks & Herramientas                       | Diseño |
-|------------------------------------------|-------------------------------------------------|--------|
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
+| Lenguajes | Frameworks & Herramientas | Diseño |
+|-----------|---------------------------|--------|
+| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white) ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinci-resolve&logoColor=white) |
+
+
 
 ---
 
