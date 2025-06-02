@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/email-noelia.graphic.bj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noelia.graphic.bj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver-blueviolet?style=flat-square&logo=github)](https://tu-portfolio.com)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-Ver-blueviolet?style=flat-square&logo=github)](https://tu-portfolio.com](https://www.behance.net/nissoliadesing))
 
 ---
 
@@ -19,35 +19,42 @@
 ---
 
 ## 💼 Experiencia
-| Fecha | Puesto | Empresa | Principales logros |
-|-------|--------|---------|--------------------|
-| **Abr – Jun 2025** | Desarrolladora Web | **Valrog** (Utrera, Sevilla) | • Apps en **FlutterFlow** de la idea al producto.<br>• Mockups **UX/UI** desde cero.<br>• Bases de datos complejas (**SQL**).<br>• Desarrollo en **Python** y fundamentos **Blockchain**. |
-| **Ene – Mar 2022** | Diseñadora Gráfica | **Lebranders** (Puerto de Santa María) | • Creación de logotipos y manuales.<br>• Naming de negocios y contacto con clientes.<br>• Contenido para campañas festivas.<br>• Webs en **WordPress + Elementor**. |
-| **Dic 2020 – Abr 2021** | Diseñadora Gráfica | **Ignacio Dopico** (Jerez) | • Identidad visual completa.<br>• Preparación de artes finales e impresión.<br>• Mediación cliente-diseño.<br>• Coordinación de campañas publicitarias. |
+| Fechas | Rol | Empresa / Tipo | Ubicación | Principales tareas |
+|--------|-----|----------------|-----------|--------------------|
+| **Abr 2025 – Actualidad** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | Utrera, Sevilla | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
+| **Abr 2023** | Ayudante de Tienda | **FairOnly** · Obra/servicio | Jerez de la Frontera | • Atención al cliente y ventas.<br>• Organización de stock y caja.<br>• Adaptabilidad a picos de demanda. |
+| **Nov 2022 – Ene 2023** | Empaquetadora | **Imperium Modas** · Parcial | Jerez de la Frontera | • Preparación y empaquetado de pedidos.<br>• Coordinación con logística.<br>• Resolución rápida de incidencias. |
+| **May 2022** | Ayudante de Tienda | **FairOnly** · Obra/servicio | Jerez de la Frontera | • Gestión operativa diaria.<br>• Servicio de atención al cliente.<br>• Trabajo en equipo. |
+| **Ene – Abr 2022** | Diseñadora Gráfica | **LeBranders** · Temporal | El Puerto de Santa María | • Identidad visual y logotipos.<br>• Estrategia y contenidos festivos.<br>• Maquetación web con **Elementor**. |
+| **Nov 2021 – Ene 2022** | Teleoperadora | **Majorel** · Obra/servicio | Jerez de la Frontera | • Soporte y fidelización de clientes.<br>• KPIs de calidad > 95 %. |
+| **May – Nov 2021** | Diseñadora Gráfica Freelance | **Autónoma** | Jerez de la Frontera | • Branding, diseño web (**WordPress**) y RRSS.<br>• Gestión integral de proyectos y clientes. |
+| **Dic 2020 – Abr 2021** | Diseñadora Gráfica (Prácticas) | **Ignacio Dopico** | Jerez de la Frontera | • Artes finales para impresión y digital.<br>• Coordinación de campañas publicitarias. |
+| **May – Jun 2020 / May – Jun 2018** | Creadora de Contenido (Prácticas) | **CRIAFAMA®** | Jerez de la Frontera | • Desarrollo de recursos gráficos para blog y RRSS.<br>• Mantenimiento visual continuo. |
 
 ---
 
 ## 🎓 Formación
 - **2023 – Actualidad** · *Grado Superior — Desarrollo de Aplicaciones Web*  
-  IES Ruiz Gijón (Utrera)
-  - HTML5, CSS3, **SASS**, **Bootstrap**, TypeScript, **Angular**, Ajax, jQuery
-  - Modelado E/R, Normalización, **SQL/MySQL**
-  - Git & GitHub, Eclipse, VS Code
-  - WordPress, Moodle, Prestashop
-
+  IES Ruiz Gijón (Utrera)  
+  HTML5, CSS3, **SASS**, **Bootstrap**, TypeScript, **Angular**, Ajax, jQuery · **SQL/MySQL** · Git & GitHub · WordPress, Moodle, Prestashop
 - **2018 – 2020** · *Grado Superior — Ilustración*  
   Escuela de Arte de Cádiz
-
 - **2016 – 2018** · *Grado Superior — Gráfica Publicitaria*  
   Escuela de Arte de Jerez de la Frontera
 
 ---
 
 ## 🏆 Competencias
-- Incorporación **inmediata**
-- **Disponibilidad geográfica**
-- Metodologías ágiles & trabajo en equipo
-- Orientación a resultados y atención al detalle
+- **FlutterFlow & Firebase**
+- **Diseño UX/UI** centrado en el usuario
+- **SQL** & modelado de datos
+- **Python** y nociones de **blockchain**
+- Resolución creativa de problemas
+- Gestión de proyectos y metodologías ágiles (**Scrum**)
+- Atención al cliente y comunicación efectiva
+- Alta **adaptabilidad** y trabajo en equipo
+- Organización, multitarea y enfoque a resultados
+- Aprendizaje continuo
 
 ---
 
@@ -60,10 +67,10 @@
 ---
 
 ## 🌐 Idiomas
-| Idioma   | Nivel |
-|----------|-------|
-| Inglés   | **B2** |
-| Francés  | **Básico** |
+| Idioma | Nivel |
+|--------|-------|
+| Inglés | **B2** |
+| Francés | **Básico** |
 
 ---
 
