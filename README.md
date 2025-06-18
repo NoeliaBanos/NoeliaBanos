@@ -21,7 +21,7 @@
 ## 💼 Experiencia
 | Fechas | Rol | Empresa / Tipo | Principales tareas |
 |--------|-----|----------------|--------------------|
-| **Abril 2025 – Actualidad** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
+| **Abril 2025 – Junio 2025** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
 | **Abril 2023** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Atención al cliente y ventas.<br>• Organización de stock y caja.<br>• Adaptabilidad a picos de demanda. |
 | **Noviembre 2022 – Enero 2023** | Empaquetadora | **Imperium Modas** · Parcial | • Preparación y empaquetado de pedidos.<br>• Coordinación con logística.<br>• Resolución rápida de incidencias. |
 | **Mayo 2022** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Gestión operativa diaria.<br>• Servicio de atención al cliente.<br>• Trabajo en equipo. |
