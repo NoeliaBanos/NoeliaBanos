@@ -34,7 +34,7 @@
 
 
 ## 🎓 Formación
-- **2023 – Actualidad** · *Grado Superior — Desarrollo de Aplicaciones Web*  
+- **2023 – 2025** · *Grado Superior — Desarrollo de Aplicaciones Web*  
   IES Ruiz Gijón (Utrera)  
   HTML5, CSS3, **SASS**, **Bootstrap**, TypeScript, **Angular**, Ajax, jQuery · **SQL/MySQL** · Git & GitHub · WordPress, Moodle, Prestashop
 - **2018 – 2020** · *Grado Superior — Ilustración*  
