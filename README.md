@@ -10,11 +10,10 @@
 
 
 ## 🗂️ Tabla de contenidos
-1. [Experiencia](#experiencia)
-2. [Formación](#formación)
-3. [Competencias](#competencias)
-4. [Tecnologías](#tecnologías)
-5. [Idiomas](#idiomas)
+1. [Formación](#formación)
+2. [Competencias](#competencias)
+3. [Tecnologías](#tecnologías)
+4. [Idiomas](#idiomas)
 
 
 
