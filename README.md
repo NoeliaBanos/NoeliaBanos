@@ -5,7 +5,6 @@
 
 [![Email](https://img.shields.io/badge/email-noelia.graphic.bj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noelia.graphic.bj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Behance](https://img.shields.io/badge/Portfolio-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/nissoliadesing)
 
 
 
@@ -15,21 +14,6 @@
 3. [Competencias](#competencias)
 4. [Tecnologías](#tecnologías)
 5. [Idiomas](#idiomas)
-
-
-
-## 💼 Experiencia
-| Fechas | Rol | Empresa / Tipo | Principales tareas |
-|--------|-----|----------------|--------------------|
-| **Abril 2025 – Junio 2025** | Desarrolladora Web (Prácticas) | **Valrog** · Presencial | • Desarrollo de aplicaciones con **FlutterFlow** y **Firebase**.<br>• Diseño de mock-ups **UX/UI** desde cero.<br>• Modelado y consultas complejas en **SQL**.<br>• Scripts en **Python** y fundamentos de **blockchain**. |
-| **Abril 2023** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Atención al cliente y ventas.<br>• Organización de stock y caja.<br>• Adaptabilidad a picos de demanda. |
-| **Noviembre 2022 – Enero 2023** | Empaquetadora | **Imperium Modas** · Parcial | • Preparación y empaquetado de pedidos.<br>• Coordinación con logística.<br>• Resolución rápida de incidencias. |
-| **Mayo 2022** | Ayudante de Tienda | **FairOnly** · Obra/servicio | • Gestión operativa diaria.<br>• Servicio de atención al cliente.<br>• Trabajo en equipo. |
-| **Enero – Abril 2022** | Diseñadora Gráfica | **LeBranders** · Temporal | • Identidad visual y logotipos.<br>• Estrategia y contenidos festivos.<br>• Maquetación web con **Elementor**. |
-| **Noviembre 2021 – Enero 2022** | Teleoperadora | **Majorel** · Obra/servicio | • Soporte y fidelización de clientes.<br>• KPIs de calidad > 95 %. |
-| **Mayo – Noviembre 2021** | Diseñadora Gráfica Freelance | **Autónoma** | • Branding, diseño web (**WordPress**) y RRSS.<br>• Gestión integral de proyectos y clientes. |
-| **Diciembre 2020 – Abril 2021** | Diseñadora Gráfica (Prácticas) | **Ignacio Dopico** | • Artes finales para impresión y digital.<br>• Coordinación de campañas publicitarias. |
-| **Mayo – Junio 2020 / Mayo – Junio 2018** | Creadora de Contenido (Prácticas) | **CRIAFAMA®** | • Desarrollo de recursos gráficos para blog y RRSS.<br>• Mantenimiento visual continuo. |
 
 
 
