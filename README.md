@@ -3,7 +3,8 @@
 **Técnica superior en gráfica publicitaria, ilustración y desarrollo de aplicaciones web.**  
  Diseñadora **UI/UX** & **Full-Stack Developer** apasionada por crear experiencias digitales que sorprendan.
 
-[![Email](https://img.shields.io/badge/email-noelia.graphic.bj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noelia.graphic.bj@gmail.com)
+[![Email](https://img.shields.io/badge/email-noelia.graphic.bj@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:noeliabanosdev@gmail.com
+)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
 
 
